@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">🔭 I’m currently working on a game Limitless<br><br>🌱 I’m currently learning Node.js, Unity, Symfony<br><br>👯 I’m looking to collaborate on a computerCraft utility repo for Modded Minecraft<br><br>👨‍💻 All of my projects are available at {{WIP}}<br><br>💬 Ask me about HTML,CSS,JS, Bootstrap or even Wordpress<br><br>📫 How to reach me desvaux.brendon@gmail.com<br><br>📄 Know about my experiences {{WIP}}<br><br>⚡ Fun fact "Rome wasn't built in a day, and it collapsed in 280 years.”</h4>
+<h4 align="left">🔭 I’m currently working on a game Limitless<br><br>🌱 I’m currently learning Node.js, Unity, Symfony and Python<br><br>👯 I’m lead develloping on a private TERA serveur at https://terabelike.akkari.fr<br><br>👨‍💻 All of my projects are available at dhb18.fr <br><br>💬 Ask me about HTML,CSS,JS, Bootstrap or even Wordpress<br><br>📫 How to reach me desvaux.brendon@gmail.com<br><br>📄 Know about my experiences {{WIP}}<br><br>⚡ Fun fact "Rome wasn't built in a day, and it collapsed in 280 years.”</h4>
 
 ###
 
