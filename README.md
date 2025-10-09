@@ -8,7 +8,38 @@
 
 ###
 
-<h4 align="left">🔭 I’m currently working on a game Limitless<br><br>🌱 I’m currently learning Node.js, Unity, Symfony and Python<br><br>👯 I’m lead develloping on a private TERA serveur at https://terabelike.akkari.fr<br><br>👨‍💻 All of my projects are available at https://www.dhb18.fr <br><br>💬 Ask me about HTML,CSS,JS, Bootstrap or even Wordpress<br><br>📫 How to reach me desvaux.brendon@gmail.com<br><br>📄 Know about my experiences {{WIP}}<br><br>⚡ Fun fact "Rome wasn't built in a day, and it collapsed in 280 years.”</h4>
+🎓 **Formateur en développement web et développement d’applications (CDA)**  
+Passionné par la conception, le code propre et la sécurité, j’enseigne et développe des projets modernes en **3 tiers** : frontend, backend et base de données.  
+J’aime transmettre les bonnes pratiques et former de futurs développeurs capables de produire du code maintenable et conforme aux normes W3C.
+
+---
+
+### 💻 Compétences principales
+
+**Web Frontend :** HTML5, CSS3, SASS, JavaScript (ES6+), React, Vue.js  
+**Web Backend :** PHP (POO, Symfony, Laravel), Node.js, Express, Go (Golang)  
+**Applications :** C#, ASP.NET Core, APIs REST / JSON, architecture 3-tiers  
+**Outils et pratiques :** Git / GitHub, Docker, CI/CD, sécurité et durcissement applicatif  
+
+---
+
+### 🚀 Projets & Activités
+
+- 🕹️ Développeur du jeu **Limitless** (projet en cours)  
+- 💼 Concepteur et développeur de plusieurs projets web et API pédagogiques  
+- 🧠 Encadrant et formateur : développement web, mobile et conception d’applications sécurisées  
+- 🌐 Découvrez mes projets : [dhb18.fr](https://www.dhb18.fr)
+
+---
+
+### 📬 Me contacter
+
+✉️ **Email :** desvaux.brendon@gmail.com  
+🌍 **Site :** [https://dhb18.fr](https://dhb18.fr)
+
+---
+
+> ⚡ *“La rigueur dans le code est la première forme de sécurité.”*<br><br>⚡ Fun fact "Rome wasn't built in a day, and it collapsed in 280 years.”</h4>
 
 ###
 
