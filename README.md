@@ -17,7 +17,7 @@ J’aime transmettre les bonnes pratiques et former de futurs développeurs capa
 ### 💻 Compétences principales
 
 **Web Frontend :** HTML5, CSS3, SASS, JavaScript (ES6+), React, Vue.js  
-**Web Backend :** PHP (POO, Symfony, Laravel), Node.js, Express, Go (Golang)  
+**Web Backend :** PHP (POO, Symfony), Node.js, Express, Go (Golang)  
 **Applications :** C#, ASP.NET Core, APIs REST / JSON, architecture 3-tiers  
 **Outils et pratiques :** Git / GitHub, Docker, CI/CD, sécurité et durcissement applicatif  
 
